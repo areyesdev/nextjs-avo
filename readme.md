@@ -6,6 +6,8 @@
 1. Agrego una ruta básica
 1. Agrego una ruta dinámica
 1. Enlazo páginas y creo una SPA
+1. Agrega nuestra propia API
+1. Páginas usando nuestra propia API
 
 ### 🤖 Guía Rápida
 
